@@ -1,4 +1,4 @@
-# myfirst
+# myFirstpage
 
 ## Project setup
 ```
