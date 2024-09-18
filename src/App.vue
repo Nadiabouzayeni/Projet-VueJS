@@ -1,7 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <h1>welcome</h1>
-  <FirstPage />
+  <FirstPage msg="vue js course" />
 </template>
 
 <script>
